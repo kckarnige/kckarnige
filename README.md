@@ -1,4 +1,9 @@
-### Heyo
+### Heyo, I'm Carnige, an idiot that knows his stuff
+
+Notable Projects:
+- [SaturnNX - A (currently) HTML and PHP based payload injector for Nintendo Switch](https://github.com/kckarnige/saturnNX)
+- [Hell of a Time - Haha, edgey Sans oc go brrrr](https://kckarnige.github.io/hoat/)
+
 
 <!--
 **kckarnige/kckarnige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
