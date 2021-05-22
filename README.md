@@ -1,4 +1,6 @@
-### Heyo, I'm Carnige, an absolute idiot, but wrinkly brain when it comes to coding and other stuff I actually like
+### Heyo, I'm Carnige, an absolute idiot who knows a thing or two about being simple but clean
+
+![PetPatPotPut](https://user-images.githubusercontent.com/32397453/119230074-acd8cb00-bae8-11eb-870f-50462f2ec591.gif)
 
 Notable Projects:
 - [ArmCord - A Discord client from scratch, coded and created by smartfridge](https://github.com/smartfrigde/armcord)
