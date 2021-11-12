@@ -4,7 +4,7 @@
 
 
 Notable Projects:
-- [The "LiteCord" License - A reasonable software license](https://github.com/kckarnige/LiteCord)
+- [Discord Improved UI - "Keeping it simple."](https://github.com/kckarnige/improved-ui)
 - [ArmCord - A Discord client from scratch, coded and created by smartfridge](https://github.com/smartfrigde/armcord)
 - [OrbitNX - A PHP and HTML GUI for TegraRcmSmash with tools to make hacking and modding a breeze](https://github.com/kckarnige/orbitNX/)
 - [HEKATE IPL Logo Recreation - An accurate recreation of an apparently hard to find logo](https://github.com/kckarnige/hekate-logo/)
