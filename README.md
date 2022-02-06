@@ -1,4 +1,4 @@
-### Heyo, I'm Carnige, an absolute idiot who knows a thing or two about CSS
+### Heyo, I'm Carnige, an absolute idiot who knows a thing or two about computer speak
 
 <img align="right" src="https://user-images.githubusercontent.com/32397453/119230074-acd8cb00-bae8-11eb-870f-50462f2ec591.gif">
 
