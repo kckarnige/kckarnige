@@ -10,6 +10,6 @@ Notable Projects:
 - [HEKATE IPL Logo Recreation - An accurate recreation of an apparently hard to find logo](https://github.com/kckarnige/hekate-logo/)
 - [Bad Time Simulator: Reimagined - Funny skeleton](https://kckarnige.is-a.dev/BadTimeRevamped/)
 
-[![Carnige's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kckarnige&show_icons=true&theme=dark)](https://github.com/kckarnige?tab=repositories&type=source)
+[![Carnige's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kckarnige&show_icons=true&title_color=4affab&bg_color=1c1c1c&text_color=fff&icon_color=4affab&border_color=4affab&&border_radius=5px&locale=en)](https://github.com/kckarnige?tab=repositories&type=source)
 
 [![](https://discord.c99.nl/widget/theme-3/634168893644210186.png)](https://discord.com/users/634168893644210186)
