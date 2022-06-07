@@ -7,7 +7,7 @@ Notable Projects and Contributions:
 - [Discord Custom Server Logos - "Stick out from the crowd."](https://github.com/kckarnige/custom-server-logos)
 - [ArmCord - A Discord client from scratch, coded and created by smartfridge](https://github.com/smartfrigde/armcord)
 - [OrbitNX - A PHP and HTML GUI for TegraRcmSmash with tools to make hacking and modding a breeze](https://github.com/kckarnige/orbitNX/)
-- [HEKATE IPL Logo Recreation - An accurate recreation of an apparently hard to find logo](https://github.com/kckarnige/hekate-logo/)
+- [HEKATE IPL Logo Recreation - An accurate-as-possible recreation of the HEKATE IPL logo](https://github.com/kckarnige/hekate-logo/)
 - [Bad Time Simulator: Reimagined - Funny skeleton](https://kckarnige.is-a.dev/BadTimeRevamped/)
 
 [![Carnige's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kckarnige&show_icons=true&title_color=4affab&bg_color=1c1c1c&text_color=fff&icon_color=4affab&border_color=4affab&&border_radius=5px&locale=en&custom_title=Carnige%27s%20GitHub%20Stats%20:3)](https://github.com/kckarnige?tab=repositories&type=source)
