@@ -12,4 +12,4 @@ Notable Projects and Contributions:
 
 [![Carnige's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kckarnige&show_icons=true&title_color=4affab&bg_color=1c1c1c&text_color=fff&icon_color=4affab&border_color=4affab&&border_radius=5px&locale=en&custom_title=Carnige%27s%20GitHub%20Stats%20:3)](https://github.com/kckarnige?tab=repositories&type=source)
 
-[![](https://discord.c99.nl/widget/theme-3/634168893644210186.png)](https://discord.com/users/634168893644210186)
+[![Discord Presence](https://lanyard.cnrad.dev/api/634168893644210186)](https://discord.com/users/634168893644210186)
