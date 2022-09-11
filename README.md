@@ -1,4 +1,4 @@
-### Heyo, I'm Carnige, an absolute idiot who knows a thing or two about computer speak
+### Heyo, I'm Carnige, an absolute idiot who knows a thing or two about web development
 
 
 
