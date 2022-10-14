@@ -8,7 +8,7 @@
 </a>
 
 Notable Projects and Contributions:
-- [Discord Custom Server Logos - "Stick out from the crowd."](https://github.com/kckarnige/custom-server-logos)
+- [Discord Custom Server Logos - "Stick out from the crowd."](https://github.com/DiscordCSL/DiscordCSL)
 - [ArmCord - A Discord client from scratch, coded and created by smartfridge](https://github.com/smartfrigde/armcord)
 - [OrbitNX - A WiP Electron, NodeJS, and Python based payload injector with tools to make Switch hacking and modding a breeze](https://github.com/OrbitNX/OrbitNX/)
 - [HEKATE IPL Logo Recreation - An accurate-as-possible recreation of the HEKATE IPL logo](https://github.com/kckarnige/hekate-logo/)
