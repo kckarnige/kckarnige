@@ -14,6 +14,10 @@ Notable Projects and Contributions:
 - [HEKATE IPL Logo Recreation - An accurate-as-possible recreation of the HEKATE IPL logo](https://github.com/kckarnige/hekate-logo/)
 - [Bad Time Simulator: Reimagined - Funny skeleton](https://kckarnige.is-a.dev/BadTimeRevamped/)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua">
+</a>
+
 <a href="https://discord.com/users/634168893644210186">
-<img align="center" src="https://lanyard.cnrad.dev/api/634168893644210186?borderRadius=8px">
+<img align="left" src="https://lanyard.cnrad.dev/api/634168893644210186?borderRadius=8px">
 </a>
