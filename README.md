@@ -19,5 +19,5 @@ Notable Projects and Contributions:
 </a>
 
 <a href="https://discord.com/users/634168893644210186">
-<img align="left" src="https://lanyard.cnrad.dev/api/634168893644210186?borderRadius=8px">
+<img align="left" src="https://lanyard.cnrad.dev/api/634168893644210186?borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=Zzz..">
 </a>
