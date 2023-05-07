@@ -20,9 +20,11 @@ Notable Projects and Contributions:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua">
 </a>
 
+<br>
+
 <a href="https://discord.com/users/634168893644210186">
-<img align="left" src="https://lanyard.cnrad.dev/api/634168893644210186?borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=Zzz..">
+<img src="https://lanyard.cnrad.dev/api/634168893644210186?borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=Zzz..">
 </a>
