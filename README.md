@@ -19,10 +19,6 @@ Notable Projects and Contributions:
 <img align="right" src="https://user-images.githubusercontent.com/32397453/119230074-acd8cb00-bae8-11eb-870f-50462f2ec591.gif">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile">
-</a>
-
 <br>
 
 <a href="https://discord.com/users/634168893644210186">
