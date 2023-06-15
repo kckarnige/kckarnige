@@ -26,5 +26,5 @@ Notable Projects and Contributions:
 <br>
 
 <a href="https://discord.com/users/634168893644210186">
-<img src="https://lanyard.kyrie25.me/api/634168893644210186?borderRadius=8px&hideDiscrim=true&globalName=true&idleMessage=Bored..&useDisplayName=true">
+<img src="https://lanyard.kyrie25.me/api/634168893644210186?borderRadius=8px&hideDiscrim=true&globalName=true&idleMessage=Bored..&useDisplayName=true&bg=#ff0000">
 </a>
