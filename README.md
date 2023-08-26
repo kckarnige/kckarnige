@@ -15,16 +15,11 @@ Notable Projects and Contributions:
 - [HEKATE IPL Logo Recreation - An accurate-as-possible recreation of the HEKATE IPL logo](https://github.com/kckarnige/hekate-logo/)
 - [Bad Time Simulator: Reimagined - Funny skeleton](https://kckarnige.is-a.dev/BadTimeRevamped/)
 
-<a href="#">
-<img align="right" src="https://user-images.githubusercontent.com/32397453/119230074-acd8cb00-bae8-11eb-870f-50462f2ec591.gif">
+<a href="https://discord.com/users/634168893644210186">
+<img src="https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Bored..&useDisplayName=true">
 </a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile">
-</a>
-
-<br>
-
-<a href="https://discord.com/users/634168893644210186">
-<img src="https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Bored..&useDisplayName=true">
 </a>
