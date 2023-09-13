@@ -9,7 +9,7 @@
 </a>
 
 Notable Projects and Contributions:
-- [Discord Custom Server Logos - "Stick out from the crowd."](https://github.com/DiscordCSL/DiscordCSL)
+- [Greyscale Ness - A SSBU skin for Ness](https://gamebanana.com/mods/396920)
 - [ArmCord - A Discord client from scratch, coded and created by smartfridge](https://github.com/smartfrigde/armcord)
 - [OrbitNX - A WiP Electron and Python based modding tool to make Switch modding a breeze](https://github.com/OrbitNX/OrbitNX/)
 - [HEKATE IPL Logo Recreation - An accurate-as-possible recreation of the HEKATE IPL logo](https://github.com/kckarnige/hekate-logo/)
