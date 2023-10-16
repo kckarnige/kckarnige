@@ -1,8 +1,10 @@
-### Heyo, I'm Carnige, an absolute idiot who knows a thing or two about stuff
+### Heyo, I'm Carnige!
 
+*I'm learning C# :D*
 
+Oh and I know JS too ig
 
-
+<h1></h1>
 
 <a href="https://ko-fi.com/kckarnige">
   <img align="right" src="https://user-images.githubusercontent.com/32397453/236360066-5ea41c8a-6748-4b10-b9d9-4057ef52dab1.png" width="250px" />
