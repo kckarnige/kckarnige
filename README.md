@@ -11,6 +11,7 @@ Oh and I know JS too ig
 </a>
 
 Notable Projects and Contributions:
+- [Oculus Kill Switch - Lets you toggle Oculus Killer](https://github.com/kckarnige/OculusKillSwitch)
 - [Greyscale Ness - A SSBU skin for Ness](https://gamebanana.com/mods/396920)
 - [ArmCord - A Discord client from scratch, coded and created by smartfridge](https://github.com/smartfrigde/armcord)
 - [HEKATE IPL Logo Recreation - An accurate-as-possible recreation of the HEKATE IPL logo](https://github.com/kckarnige/hekate-logo/)
