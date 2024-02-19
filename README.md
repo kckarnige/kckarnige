@@ -1,8 +1,6 @@
 ### Heyo, I'm Carnige!
 
-*I'm learning C# :D*
-
-Oh and I know JS too ig
+I'm a hobbyist web developer who's a JavaScript """expert""". 
 
 <h1></h1>
 
