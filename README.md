@@ -1,6 +1,6 @@
-### Heyo, I'm Carnige!
+### Hey, I'm Carnige!
 
-I'm a hobbyist web developer who's a JavaScript """expert""". 
+I'm a hobbyist web developer who's a JavaScript """expert"""
 
 <h1></h1>
 
