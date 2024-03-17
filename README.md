@@ -1,8 +1,10 @@
-### 👋 Hey, I'm Carnige!
+###  Hey, I'm Carnige!
 
 I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! _(repeated myself twice)_
 
 [![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,electron)](https://skillicons.dev)
 
 <h1></h1>
 <br>
@@ -16,7 +18,7 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 </p>
 
 
-## 👷‍♂️ Notable [P]rojects and [C]ontributions 🪛
+##  Notable [P]rojects and [C]ontributions 
 
 ### [My Website!!!!!](https://kckarnige.is-a.dev/) [P]
 The 3rd rewrite of my website, built from the ground up!
@@ -35,7 +37,7 @@ Because why wait to install a cryptominer, when you could do it now!!
 
 <br>
 
-## ✨ My Essential Programs™ ✨
+##  My Essential Programs™ 
 
 ### [Oculus Dummy](https://github.com/kckarnige/OculusDummy)
 It helps squeeze a bit of extra performance out of my gaming laptop.
@@ -55,7 +57,7 @@ Lightweight and uses less system resources, meaning 1 MORE FRAME FOR MODDED MINE
 ### [Theseus / Modrinth App](https://github.com/modrinth/theseus)
 The official Modrinth unofficial Minecraft launcher. Might not be the best fish in the sea, *but it sure is the prettiest :3*
 
-## 🌐 My Socials 💻
+##  My Socials 
 
 Twitter - [@kckarnige](https://twitter.com/kckarnige)
 
