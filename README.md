@@ -15,10 +15,10 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
   <i>I need money, you got some, what do you say?</i>
   <br>
   <a href="https://liberapay.com/kckarnige/donate">
-    <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+    <img alt="Donate via Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
   </a><br>
   <a href="https://ko-fi.com/kckarnige">
-    <img src="https://user-images.githubusercontent.com/32397453/236360066-5ea41c8a-6748-4b10-b9d9-4057ef52dab1.png" width="250px" />
+    <img alt="Donate via Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" width="250px" />
   </a>
 </p>
 
