@@ -12,7 +12,7 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 <br>
 
 <p align="center">
-  <i>I need money, you got some, what do you say?</i>
+  <i>If you like what I do, please consider donating, it'd mean the world :D</i>
   <br>
   <a href="https://liberapay.com/kckarnige/donate">
     <img alt="Donate via Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
