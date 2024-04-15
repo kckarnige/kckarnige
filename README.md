@@ -29,7 +29,7 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 The 3rd rewrite of my website, built from the ground up!
 
 ### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
-An Oculus Client replacement for low-end VR users.
+An Oculus Client replacement for low-end PCVR users.
 
 ### [ArmCord](https://github.com/ArmCord/ArmCord) [C]
 An alternative Discord client made from scratch, coded and created by smartfridge.
