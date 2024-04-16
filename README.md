@@ -14,7 +14,7 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 <p align="center">
   <i>If you like what I do, please consider donating, it'd mean the world :D</i>
   <br>
-  <a href="https://www.buymeacoffee.com/kckarnige">
+  <a href="https://www.buymeacoffee.com/kckarnige" target="_blank">
     <img width="222" alt="bmc-button" src="https://github.com/kckarnige/kckarnige/assets/32397453/8da1edcc-2c3b-4628-8d82-4b53025a16ee">
   </a>
 </p>
