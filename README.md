@@ -14,11 +14,8 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 <p align="center">
   <i>If you like what I do, please consider donating, it'd mean the world :D</i>
   <br>
-  <a href="https://liberapay.com/kckarnige/donate">
-    <img alt="Donate via Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
-  </a><br>
-  <a href="https://ko-fi.com/kckarnige">
-    <img alt="Donate via Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" width="250px" />
+  <a href="https://www.buymeacoffee.com/kckarnige">
+    <img width="222" alt="bmc-button" src="https://github.com/kckarnige/kckarnige/assets/32397453/8da1edcc-2c3b-4628-8d82-4b53025a16ee">
   </a>
 </p>
 
