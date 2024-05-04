@@ -17,6 +17,8 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
   <a href="https://www.buymeacoffee.com/kckarnige" target="_blank">
     <img width="222" alt="bmc-button" src="https://github.com/kckarnige/kckarnige/assets/32397453/8da1edcc-2c3b-4628-8d82-4b53025a16ee">
   </a>
+  <br>
+  <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> :3</i>
 </p>
 
 
@@ -63,5 +65,7 @@ Twitter - [@kckarnige](https://twitter.com/kckarnige)
 Discord - [@kckarnige](https://discord.com/users/634168893644210186)
 
 Bluesky - [@kckarnige.bsky.social](https://bsky.app/profile/kckarnige.bsky.social)
+
+Instagram - [@kckarnige](https://instagram.com/kckarnige)
 
 [![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Probably%20going%20through%20coder%27s%20block.&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
