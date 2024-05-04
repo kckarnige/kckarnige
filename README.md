@@ -58,7 +58,7 @@ Lightweight and uses less system resources, meaning 1 MORE FRAME FOR MODDED MINE
 ### [Theseus / Modrinth App](https://github.com/modrinth/theseus)
 The official Modrinth unofficial Minecraft launcher. Might not be the best fish in the sea, *but it sure is the prettiest :3*
 
-## 🌐 My Socials and Other Accounts 💻
+## 🌐 My Socials 💻
 
 Twitter - [@kckarnige](https://twitter.com/kckarnige)
 
