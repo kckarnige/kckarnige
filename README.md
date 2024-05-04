@@ -72,4 +72,8 @@ YouTube - [@kckarnige](https://www.youtube.com/channel/UCHDWD1G20SVO399jCS0LDNQ)
 
 DeviantArt - [CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
+Roblox - [@kayos155](https://www.roblox.com/users/154248006/profile)
+
+GameBanana - [KCK](https://gamebanana.com/members/1716410)
+
 [![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Probably%20going%20through%20coder%27s%20block.&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
