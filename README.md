@@ -25,7 +25,7 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 ### [My Website!!!!!](https://kckarnige.is-a.dev/) [P]
 The 3rd rewrite of my website, built from the ground up!
 
-### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
+### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P] (Archived)
 An Oculus Client replacement for low-end PCVR users.
 
 ### [ArmCord](https://github.com/ArmCord/ArmCord) [C]
@@ -40,9 +40,6 @@ Because why wait to install a cryptominer, when you could do it now!!
 <br>
 
 ## ✨ My Essential Programs™ ✨
-
-### [Oculus Dummy](https://github.com/kckarnige/OculusDummy)
-It helps squeeze a bit of extra performance out of my gaming laptop.
 
 ### [Vesktop](https://github.com/Vencord/Vesktop)
 Literally just the Discord client but smoother and Shiggier. *(You should still try out ArmCord!)*
