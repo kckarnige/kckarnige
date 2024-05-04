@@ -58,7 +58,7 @@ Lightweight and uses less system resources, meaning 1 MORE FRAME FOR MODDED MINE
 ### [Theseus / Modrinth App](https://github.com/modrinth/theseus)
 The official Modrinth unofficial Minecraft launcher. Might not be the best fish in the sea, *but it sure is the prettiest :3*
 
-## 🌐 My Socials 💻
+## 🌐 My Socials and Other Accounts 💻
 
 Twitter - [@kckarnige](https://twitter.com/kckarnige)
 
@@ -67,5 +67,9 @@ Discord - [@kckarnige](https://discord.com/users/634168893644210186)
 Bluesky - [@kckarnige.bsky.social](https://bsky.app/profile/kckarnige.bsky.social)
 
 Instagram - [@kckarnige](https://instagram.com/kckarnige)
+
+YouTube - [@kckarnige](https://www.youtube.com/channel/UCHDWD1G20SVO399jCS0LDNQ)
+
+DeviantArt - [CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
 [![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Probably%20going%20through%20coder%27s%20block.&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
