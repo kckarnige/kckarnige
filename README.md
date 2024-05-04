@@ -65,4 +65,6 @@ Twitter - [@kckarnige](https://twitter.com/kckarnige)
 
 Discord - [@kckarnige](https://discord.com/users/634168893644210186)
 
+Bluesky - [@kckarnige.bsky.social](https://bsky.app/profile/kckarnige.bsky.social)
+
 [![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Probably%20going%20through%20coder%27s%20block.&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
