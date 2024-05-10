@@ -24,7 +24,7 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 
 ## 👷‍♂️ Notable [P]rojects and [C]ontributions 🪛
 
-### [My Website!!!!!](https://kckarnige.is-a.dev/) [P]
+### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 3rd rewrite of my website, built from the ground up!
 
 ### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P] (Archived)
