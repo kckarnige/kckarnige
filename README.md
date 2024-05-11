@@ -64,7 +64,7 @@ Twitter - [@kckarnige](https://twitter.com/kckarnige)
 
 Discord - [@kckarnige](https://discord.com/users/634168893644210186)
 
-Bluesky - [@kckarnige.bsky.social](https://bsky.app/profile/kckarnige.bsky.social)
+Bluesky - [@is-broke.online](https://bsky.app/profile/is-broke.online)
 
 Instagram - [@kckarnige](https://instagram.com/kckarnige)
 
