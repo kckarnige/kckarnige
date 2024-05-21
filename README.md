@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Carnige!
 
-I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! _(repeated myself twice)_
+I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! _(sorry for repeating myself)_
 
 > *If you're here from [smartfridge](https://github.com/smartfrigde)'s profile readme, broski stole from [this version](https://github.com/kckarnige/kckarnige/tree/e37c8eb15ef2d70efc931c78bab7686a97dd6579) lmao*
 
