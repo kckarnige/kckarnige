@@ -46,6 +46,9 @@ Because why wait to install a cryptominer, when you could do it now!!
 ### [Vesktop](https://github.com/Vencord/Vesktop)
 Literally just the Discord client but smoother and Shiggier. *(You should still try out ArmCord!)*
 
+### [Floorp](https://github.com/floorp-Projects/floorp)
+Firefox, but with much more freedom when it comes to customization.
+
 ### [Ecsta](https://github.com/kckarnige/EcstaTab)
 Honestly I originally made this for myself, I just like having something nice to look at.
 
