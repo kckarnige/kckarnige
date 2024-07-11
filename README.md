@@ -27,8 +27,11 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 3rd rewrite of my website, built from the ground up!
 
-### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P] (Archived)
+### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
 An Oculus Client replacement for low-end PCVR users.
+
+### [Oculus Kill Switch](https://github.com/kckarnige/OculusKillSwitch) [P]
+For those with games in their Oculus and SteamVR library who want to enjoy both.
 
 ### [ArmCord](https://github.com/ArmCord/ArmCord) [C]
 An alternative Discord client made from scratch, coded and created by smartfridge.
