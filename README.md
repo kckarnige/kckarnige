@@ -4,9 +4,9 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 
 > *If you're here from [smartfridge](https://github.com/smartfrigde)'s profile readme, broski stole from [this version](https://github.com/kckarnige/kckarnige/tree/e37c8eb15ef2d70efc931c78bab7686a97dd6579) lmao*
 
-[![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,electron,ps)](https://skillicons.dev)
+
+[![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1></h1>
 <br>
