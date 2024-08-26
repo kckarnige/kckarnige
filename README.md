@@ -61,8 +61,8 @@ Ever since I've "upgraded" to Windows 11, I've grew slightly fond of it, though 
 ### [G-Helper](https://github.com/seerge/g-helper)
 Lightweight and uses less system resources, meaning 1 MORE FRAME FOR MODDED MINECRAFT BABYYYY WOOOOOOO!!!!
 
-### [Theseus / Modrinth App](https://github.com/modrinth/theseus)
-The official Modrinth unofficial Minecraft launcher. Might not be the best fish in the sea, *but it sure is the prettiest :3*
+### [ATLauncher](https://github.com/ATLauncher/ATLauncher)
+The old reliable when it comes to modded Minecraft. Might not be the prettiest, but it just works™.
 
 ## 🌐 My Socials 💻
 
