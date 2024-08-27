@@ -2,7 +2,7 @@
 
 I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! _(sorry for repeating myself)_
 
-> *If you're here from [smartfridge](https://github.com/smartfrigde)'s profile readme, broski stole from [this version](https://github.com/kckarnige/kckarnige/tree/e37c8eb15ef2d70efc931c78bab7686a97dd6579) lmao*
+> *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, [ArmCord](https://github.com/ArmCord/ArmCord) is epic" - My stupid ass 2024*
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,electron,ps)](https://skillicons.dev)
 
@@ -34,7 +34,7 @@ An Oculus Client replacement for low-end PCVR users.
 For those with games in their Oculus and SteamVR library who want to enjoy both.
 
 ### [ArmCord](https://github.com/ArmCord/ArmCord) [C]
-An alternative Discord client made from scratch, coded and created by smartfridge.
+The first alternative Discord client made from scratch, coded and created by smartfridge.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
 An open-source new tab extension that makes for good eye-candy.
