@@ -27,6 +27,9 @@ I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! 
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 3rd rewrite of my website, built from the ground up!
 
+### [It's About The Journey](https://iatj-modpack.github.io/) [P]
+Just another "barely-vanilla plus" Minecraft modpack.
+
 ### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
 An Oculus Client replacement for low-end PCVR users.
 
