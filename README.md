@@ -1,8 +1,8 @@
 ### 👋 Hey, I'm Carnige!
 
-I'm a hobbyist web developer who specialies in nonsensical code and JavaScript! _(sorry for repeating myself)_
+I'm a hobbyist web developer who specialies in nonsense and code!
 
-> *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, [ArmCord](https://github.com/ArmCord/ArmCord) is epic" - My stupid ass 2024*
+> *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, [ArmCord](https://github.com/ArmCord/ArmCord) is gayer" - My stupid ass 2024*
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,electron,ps)](https://skillicons.dev)
 
