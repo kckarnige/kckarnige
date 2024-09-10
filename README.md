@@ -69,7 +69,7 @@ The old reliable when it comes to modded Minecraft. Might not be the prettiest, 
 
 ## 🌐 My Socials 💻
 
-Twitter - [@kckarnige](https://twitter.com/kckarnige)
+Twitter - [@kckarnige](https://x.com/kckarnige)
 
 Discord - [@kckarnige](https://discord.com/users/634168893644210186)
 
