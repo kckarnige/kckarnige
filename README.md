@@ -87,4 +87,4 @@ Modrinth - [@KayoticCarnige](https://modrinth.com/user/KayoticCarnige)
 
 GameBanana - [@KCK](https://gamebanana.com/members/1716410)
 
-[![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Probably%20going%20through%20coder%27s%20block.&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
+[![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage="I'm%20half%20the%20man%20I%20was%20this%20time%20last%20year!"&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
