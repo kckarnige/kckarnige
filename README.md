@@ -37,7 +37,7 @@ An Oculus Client replacement for low-end PCVR users.
 For those with games in their Oculus and SteamVR library who want to enjoy both.
 
 ### [ArmCord](https://github.com/ArmCord/ArmCord) [C]
-The first alternative Discord client made from scratch, coded and created by smartfridge.
+One of the first alternative Discord clients made from scratch, created by smartfridge.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
 An open-source new tab extension that makes for good eye-candy.
@@ -50,7 +50,7 @@ Because why wait to install a cryptominer, when you could do it now!!
 ## ✨ My Essential Programs™ ✨
 
 ### [Vesktop](https://github.com/Vencord/Vesktop)
-Literally just the Discord client but smoother and Shiggier. *(You should still try out ArmCord!)*
+Literally just the Discord client but smoother and Shiggier. *(You should still try out [ArmCord](https://github.com/ArmCord/ArmCord)!)*
 
 ### [Floorp](https://github.com/floorp-Projects/floorp)
 Firefox, but with much more freedom when it comes to customization.
