@@ -18,6 +18,10 @@ I'm a hobbyist web developer who specialies in nonsense and code!
     <img width="222" alt="bmc-button" src="https://github.com/kckarnige/kckarnige/assets/32397453/8da1edcc-2c3b-4628-8d82-4b53025a16ee">
   </a>
   <br>
+  <a href="https://ko-fi.com/kckarnige" target="_blank">
+    <img width="222" alt="kofi-button" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png">
+  </a>
+  <br>
   <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> :3</i>
 </p>
 
