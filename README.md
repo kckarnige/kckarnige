@@ -1,12 +1,16 @@
 ### 👋 Hey, I'm Carnige!
 
-I'm a hobbyist web developer who specialies in nonsense and code!
+I'm a hobbyist programmer who specialies in nonsense and code!
 
 > *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, [ArmCord](https://github.com/ArmCord/ArmCord) is gayer." - My stupid ass 2024*
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,electron,ps)](https://skillicons.dev)
-
 [![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+### Things I work well with:
+[![My Skills](https://skillicons.dev/icons?i=html,scss,css,nodejs,js,ps)](https://skillicons.dev)
+
+### Things I'm learning:
+[![My WIP Skills](https://skillicons.dev/icons?i=java,ai,cs)](https://skillicons.dev)
 
 <h1></h1>
 <br>
@@ -30,6 +34,9 @@ I'm a hobbyist web developer who specialies in nonsense and code!
 
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 3rd rewrite of my website, built from the ground up!
+
+### [Wham!](https://github.com/kckarnige/WhamMace) [P]
+My attempt at overhauling Minecraft's mace.
 
 ### [It's About The Journey](https://iatj-modpack.github.io/) [P]
 Just another "barely-vanilla plus" Minecraft modpack.
