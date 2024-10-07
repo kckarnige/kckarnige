@@ -39,7 +39,7 @@ The 3rd rewrite of my website, built from the ground up!
 My attempt at overhauling Minecraft's mace.
 
 ### [It's About The Journey](https://iatj-modpack.github.io/) [P]
-Just another "barely-vanilla plus" Minecraft modpack.
+Just another Minecraft modpack.
 
 ### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
 An Oculus Client replacement for low-end PCVR users.
