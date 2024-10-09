@@ -41,8 +41,8 @@ My attempt at overhauling Minecraft's mace.
 ### [It's About The Journey](https://iatj-modpack.github.io/) [P]
 Just another Minecraft modpack.
 
-### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
-An Oculus Client replacement for low-end PCVR users.
+### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P] (Archived)
+Was an Oculus Client replacement for low-end PCVR users.
 
 ### [Oculus Kill Switch](https://github.com/kckarnige/OculusKillSwitch) [P]
 For those with games in their Oculus and SteamVR library who want to enjoy both.
