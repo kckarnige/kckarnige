@@ -2,7 +2,7 @@
 
 I'm a hobbyist programmer who specialies in nonsense and code!
 
-> *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, [ArmCord](https://github.com/ArmCord/ArmCord) is gayer." - My stupid ass 2024*
+> *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord) is gayer." - My stupid ass 2024*
 
 [![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,8 +47,8 @@ Was an Oculus Client replacement for low-end PCVR users.
 ### [Oculus Kill Switch](https://github.com/kckarnige/OculusKillSwitch) [P]
 For those with games in their Oculus and SteamVR library who want to enjoy both.
 
-### [ArmCord](https://github.com/ArmCord/ArmCord) [C]
-One of the first alternative Discord clients made from scratch, created by smartfridge.
+### [Legcord](https://github.com/Legcord/Legcord) [C]
+Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
 An open-source new tab extension that makes for good eye-candy.
