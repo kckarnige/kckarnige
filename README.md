@@ -61,7 +61,7 @@ Because why wait to install a cryptominer, when you could do it now!!
 ## ✨ My Essential Programs™ ✨
 
 ### [Vesktop](https://github.com/Vencord/Vesktop)
-Literally just the Discord client but smoother and Shiggier. *(You should still try out [ArmCord](https://github.com/ArmCord/ArmCord)!)*
+Literally just the Discord client but smoother and Shiggier. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord)!)*
 
 ### [Floorp](https://github.com/floorp-Projects/floorp)
 Firefox, but with much more freedom when it comes to customization.
