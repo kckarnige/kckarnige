@@ -35,6 +35,9 @@ I'm a hobbyist programmer who specialies in nonsense and code!
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 3rd rewrite of my website, built from the ground up!
 
+### [Slow Your Bronze](https://github.com/kckarnige/SlowBronze) [P]
+A Minecraft mod that makes the Bronze mod compatible with "Slow Your Roll".
+
 ### [Wham!](https://github.com/kckarnige/WhamMace) [P]
 My attempt at overhauling Minecraft's mace.
 
