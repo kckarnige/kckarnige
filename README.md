@@ -22,6 +22,10 @@ I'm a hobbyist programmer who specialies in nonsense and code!
     <img width="222" alt="bmc-button" src="https://github.com/kckarnige/kckarnige/assets/32397453/8da1edcc-2c3b-4628-8d82-4b53025a16ee">
   </a>
   <br>
+  <a href="https://github.com/sponsors/kckarnige" target="_blank">
+    <img width="122" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86">
+  </a>
+  <br>
   <a href="https://ko-fi.com/kckarnige" target="_blank">
     <img width="222" alt="kofi-button" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png">
   </a>
@@ -101,4 +105,4 @@ Modrinth - [@KayoticCarnige](https://modrinth.com/user/KayoticCarnige)
 
 GameBanana - [@KCK](https://gamebanana.com/members/1716410)
 
-[![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage="I'm%20half%20the%20man%20I%20was%20this%20time%20last%20year!"&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
+[![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage="I've%20been%20shaking%20my%20hips,%20I've%20been%20putting%20on%20a%20show."&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
