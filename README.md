@@ -101,7 +101,7 @@ DeviantArt - [@CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
 Roblox - [@kayos155](https://www.roblox.com/users/154248006/profile)
 
-Modrinth - [@KayoticCarnige](https://modrinth.com/user/KayoticCarnige)
+Modrinth - [@\_KCK\_](https://modrinth.com/user/_KCK_)
 
 GameBanana - [@KCK](https://gamebanana.com/members/1716410)
 
