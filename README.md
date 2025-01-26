@@ -17,20 +17,20 @@ I'm a hobbyist programmer who specialies in nonsense and code!
 
 <p align="center">
   <i>If you like what I do, please consider donating, it'd mean the world :D</i>
-  <br>
+  <br><br>
   <a href="https://www.buymeacoffee.com/kckarnige" target="_blank">
-    <img width="222" alt="bmc-button" src="https://github.com/kckarnige/kckarnige/assets/32397453/8da1edcc-2c3b-4628-8d82-4b53025a16ee">
+    <img alt="buymeacoffee-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg">
   </a>
   <br>
   <a href="https://github.com/sponsors/kckarnige" target="_blank">
-    <img width="122" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86">
+    <img alt="ghsponsors-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/ghsponsors-singular_vector.svg">
   </a>
   <br>
   <a href="https://ko-fi.com/kckarnige" target="_blank">
-    <img width="222" alt="kofi-button" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png">
+    <img alt="kofi-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg">
   </a>
   <br>
-  <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> :3</i>
+  <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> (Yes, I am that broke)</i>
 </p>
 
 
