@@ -14,7 +14,7 @@ I'm a hobbyist programmer who specialies in nonsense and code!
 
 <h1></h1>
 <br>
-
+<section id="donate">
 <p align="center">
   <i>If you like what I do, please consider donating, it'd mean the world :D</i>
   <br><br>
@@ -32,6 +32,7 @@ I'm a hobbyist programmer who specialies in nonsense and code!
   <br>
   <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> (Yes, I am that broke)</i>
 </p>
+</section>
 
 
 ## 👷‍♂️ Notable [P]rojects and [C]ontributions 🪛
