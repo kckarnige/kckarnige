@@ -15,23 +15,23 @@ I'm a hobbyist programmer who specialies in nonsense and code!
 <h1></h1>
 <br>
 <section id="donate">
-<p align="center">
-  <i>If you like what I do, please consider donating, it'd mean the world :D</i>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/kckarnige" target="_blank">
-    <img alt="buymeacoffee-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg">
-  </a>
-  <br>
-  <a href="https://github.com/sponsors/kckarnige" target="_blank">
-    <img alt="ghsponsors-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/ghsponsors-singular_vector.svg">
-  </a>
-  <br>
-  <a href="https://ko-fi.com/kckarnige" target="_blank">
-    <img alt="kofi-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg">
-  </a>
-  <br>
-  <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> (Yes, I am that broke)</i>
-</p>
+  <p align="center">
+    <i>If you like what I do, please consider donating, it'd mean the world :D</i>
+    <br><br>
+    <a href="https://www.buymeacoffee.com/kckarnige" target="_blank">
+      <img alt="buymeacoffee-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg">
+    </a>
+    <br>
+    <a href="https://github.com/sponsors/kckarnige" target="_blank">
+      <img alt="ghsponsors-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/ghsponsors-singular_vector.svg">
+    </a>
+    <br>
+    <a href="https://ko-fi.com/kckarnige" target="_blank">
+      <img alt="kofi-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg">
+    </a>
+    <br>
+    <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> (Yes, I am that broke)</i>
+  </p>
 </section>
 
 
