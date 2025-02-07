@@ -46,7 +46,7 @@ My attempt at overhauling Minecraft's mace. _(Available on [Modrinth](https://mo
 A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on [Modrinth](https://modrinth.com/mod/tools-of-steel))_
 
 ### [Minecraft: Sticks n' Stones](https://mc-sns.github.io/) [P]
-Just another Minecraft modpack. _(Coming Soon to Modrinth)_
+Just another Minecraft modpack. _(Available on [Modrinth](https://modrinth.com/modpack/mc-sns))_
 
 ### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P] (Archived)
 Was an Oculus Client replacement for low-end PCVR users.
