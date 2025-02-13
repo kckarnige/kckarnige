@@ -43,7 +43,7 @@ The 3rd rewrite of my website, built from the ground up!
 My attempt at overhauling Minecraft's mace. _(Available on [Modrinth](https://modrinth.com/mod/wham-mace) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wham-mace))_
 
 ### [Tools of Steel](https://github.com/kckarnige/ToolsofSteel) [P]
-A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on [Modrinth](https://modrinth.com/mod/tools-of-steel))_
+A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on [Modrinth](https://modrinth.com/mod/tools-of-steel) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tools-of-steel))_
 
 ### [Minecraft: Sticks n' Stones](https://mc-sns.github.io/) [P]
 Just another Minecraft modpack. _(Available on [Modrinth](https://modrinth.com/modpack/mc-sns))_
