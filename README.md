@@ -105,4 +105,4 @@ Modrinth - [@\_KCK\_](https://modrinth.com/user/_KCK_)
 
 GameBanana - [@KCK](https://gamebanana.com/members/1716410)
 
-[![discord-profile](https://lanyard.kyrie25.me/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage="I've%20been%20shaking%20my%20hips,%20I've%20been%20putting%20on%20a%20show."&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
+[![discord-profile](https://lanyard.kyrie25.dev/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage="I've%20been%20shaking%20my%20hips,%20I've%20been%20putting%20on%20a%20show."&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
