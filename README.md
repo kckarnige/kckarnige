@@ -91,7 +91,7 @@ TwXtter - [@kckarnige](https://x.com/kckarnige)
 
 Discord - [@kckarnige](https://discord.com/users/634168893644210186)
 
-Bluesky - [@kckarnige.is-broke.online](https://bsky.app/profile/kckarnige.is-broke.online)
+Bluesky - [@kckarnige.online](https://bsky.app/profile/kckarnige.online)
 
 Instagram - [@kckarnige](https://instagram.com/kckarnige)
 
