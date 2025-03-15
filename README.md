@@ -18,7 +18,7 @@
 
 ----
 
-### 👋 Hey, I'm Carnige!
+### 👋 Hey, I'm KiCK!
 
 I'm a hobbyist programmer who specialies in nonsense and code!
 
@@ -101,7 +101,7 @@ DeviantArt - [@CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
 Roblox - [@kayos155](https://www.roblox.com/users/154248006/profile)
 
-Modrinth - [@\_KCK\_](https://modrinth.com/user/_KCK_)
+Modrinth - [KiCK](https://modrinth.com/user/KiCK)
 
 GameBanana - [@KCK](https://gamebanana.com/members/1716410)
 
