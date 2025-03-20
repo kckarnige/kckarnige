@@ -37,7 +37,7 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 ## 👷‍♂️ Notable [P]rojects and [C]ontributions 🪛
 
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
-The 3rd rewrite of my website, built from the ground up!
+The 4th rewrite of my website, built from the ground up!
 
 ### [Wham!](https://github.com/kckarnige/WhamMace) [P]
 My attempt at overhauling Minecraft's mace. _(Available on [Modrinth](https://modrinth.com/mod/wham-mace) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wham-mace))_
