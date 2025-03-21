@@ -39,6 +39,15 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 4th rewrite of my website, built from the ground up!
 
+### [Legcord](https://github.com/Legcord/Legcord) [C]
+Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
+
+### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
+Was an Oculus Client replacement for low-end PCVR users.
+
+### [Oculus Kill Switch](https://github.com/kckarnige/OculusKillSwitch) [P]
+For those with games in their Oculus and SteamVR library who want to enjoy both.
+
 ### [Wham!](https://github.com/kckarnige/WhamMace) [P]
 My attempt at overhauling Minecraft's mace. _(Available on [Modrinth](https://modrinth.com/mod/wham-mace) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wham-mace))_
 
@@ -47,15 +56,6 @@ A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on 
 
 ### [Minecraft: Sticks n' Stones](https://mc-sns.github.io/) [P]
 Just another Minecraft modpack. _(Available on [Modrinth](https://modrinth.com/modpack/mc-sns))_
-
-### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P] (Archived)
-Was an Oculus Client replacement for low-end PCVR users.
-
-### [Oculus Kill Switch](https://github.com/kckarnige/OculusKillSwitch) [P]
-For those with games in their Oculus and SteamVR library who want to enjoy both.
-
-### [Legcord](https://github.com/Legcord/Legcord) [C]
-Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
 An open-source new tab extension that makes for good eye-candy.
@@ -67,8 +67,8 @@ Because why wait to install a cryptominer, when you could do it now!!
 
 ## ✨ My Essential Programs™ ✨
 
-### [Vesktop](https://github.com/Vencord/Vesktop)
-Literally just the Discord client but smoother and Shiggier. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord)!)*
+### [Equibop](https://github.com/Equicord/Equibop)
+A fork of [Vesktop](https://github.com/Vencord/Vesktop), with more plugins. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord), it includes both Vencord and Equicord!)*
 
 ### [Floorp](https://github.com/floorp-Projects/floorp)
 Firefox, but with much more freedom when it comes to customization.
