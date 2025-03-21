@@ -1,5 +1,3 @@
-![GitHub Profile View Counter](https://komarev.com/ghpvc/?username=kckarnige&color=0bf8cc)
-
 <p align="center">
   <i>If you like what I do, please consider donating, it'd mean the world :D</i>
   <br><br>
