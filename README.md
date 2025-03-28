@@ -39,6 +39,9 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 4th rewrite of my website, built from the ground up!
 
+### [Neo NWjsC2](https://github.com/kckarnige/NeoNWjsForC2) [P]
+This is my modernized remake of "NW.js for Construct 2", which installs the latest version of NW.js available for use with Construct 2. 
+
 ### [Legcord](https://github.com/Legcord/Legcord) [C]
 Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
 
