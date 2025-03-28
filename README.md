@@ -65,16 +65,16 @@ Because why wait to install a cryptominer, when you could do it now!!
 A fork of [Vesktop](https://github.com/Vencord/Vesktop), with more plugins. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord), it includes both Vencord and Equicord!)*
 
 ### [Floorp](https://github.com/floorp-Projects/floorp)
-Firefox, but with much more freedom when it comes to customization.
+A fork of Firefox, but with much more freedom when it comes to customization.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab)
-Honestly I originally made this for myself, I just like having something nice to look at.
+Honestly, I made this 100% for myself, I just like having something nice to look at.
 
 ### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
-Ever since I've "upgraded" to Windows 11, I've grew slightly fond of it, though I still enjoy the taskbar from Windows 10, and this is perfect!
+Ever since I've "upgraded" to Windows 11, though I still enjoy the taskbar and File Explorer from Windows 10, and this is perfect!
 
 ### [G-Helper](https://github.com/seerge/g-helper)
-Lightweight and uses less system resources, meaning 1 MORE FRAME FOR MODDED MINECRAFT BABYYYY WOOOOOOO!!!!
+A simple and lightweight alternative to ASUS's Armoury Crate, it's a lot more convenient!
 
 ### [ATLauncher](https://github.com/ATLauncher/ATLauncher)
 The old reliable when it comes to modded Minecraft. Might not be the prettiest, but it just works™.
