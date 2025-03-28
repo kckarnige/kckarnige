@@ -45,15 +45,6 @@ This is my modernized remake of "NW.js for Construct 2", which installs the late
 ### [Legcord](https://github.com/Legcord/Legcord) [C]
 Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
 
-### [Oculus Dummy](https://github.com/kckarnige/OculusDummy) [P]
-Was an Oculus Client replacement for low-end PCVR users.
-
-### [Oculus Kill Switch](https://github.com/kckarnige/OculusKillSwitch) [P]
-For those with games in their Oculus and SteamVR library who want to enjoy both.
-
-### [Wham!](https://github.com/kckarnige/WhamMace) [P]
-My attempt at overhauling Minecraft's mace. _(Available on [Modrinth](https://modrinth.com/mod/wham-mace) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wham-mace))_
-
 ### [Tools of Steel](https://github.com/kckarnige/ToolsofSteel) [P]
 A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on [Modrinth](https://modrinth.com/mod/tools-of-steel) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tools-of-steel))_
 
