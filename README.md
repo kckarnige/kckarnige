@@ -40,7 +40,7 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 The 4th rewrite of my website, built from the ground up!
 
 ### [Fresh NW (Formerly Neo NW)](https://github.com/kckarnige/NeoNWjsForC2) [P]
-This is my modernized remake of "NW.js for Construct 2", which installs the latest version of NW.js available for use with Construct 2. 
+This is my modernized remake of the official "NW.js for Construct 2" installer. This installs the latest version of NW.js available, for use with Construct 2. 
 
 ### [Legcord](https://github.com/Legcord/Legcord) [C]
 Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
