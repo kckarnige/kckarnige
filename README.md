@@ -95,7 +95,7 @@ DeviantArt - [@CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
 Roblox - [@kayos155](https://www.roblox.com/users/154248006/profile)
 
-Modrinth - [KiCKisGeneric](https://modrinth.com/user/KiCKisGeneric)
+Modrinth - [KiCKTheBucket](https://modrinth.com/user/KiCKTheBucket)
 
 GameBanana - [@KCK](https://gamebanana.com/members/1716410)
 
