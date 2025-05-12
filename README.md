@@ -37,7 +37,10 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 ## 👷‍♂️ Notable [P]rojects and [C]ontributions 🪛
 
 ### [My Website!!!!!](https://kckarnige.github.io/) [P]
-The 4th rewrite of my website, built from the ground up!
+The 4th rewrite of my website, built from the ground up.
+
+### [Blox R.A.T. Proxy](https://github.com/kckarnige/BloxRatP) [P]
+A simple little test API that may or may not be useful. It can either give you an avatar render of a user or give you some data about the user, like their display name and profile description.
 
 ### [Fresh NW](https://github.com/kckarnige/NeoNWjsForC2) [P]
 This is my modernized remake of the official "NW.js for Construct 2" installer. This installs the latest version of NW.js available, for use with Construct 2. 
