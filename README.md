@@ -27,10 +27,10 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 [![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Things I work well with:
-[![My Skills](https://skillicons.dev/icons?i=html,scss,css,nodejs,js,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,scss,css,js,ps)](https://skillicons.dev)
 
 ### Things I'm learning:
-[![My WIP Skills](https://skillicons.dev/icons?i=java,ai,cs)](https://skillicons.dev)
+[![My WIP Skills](https://skillicons.dev/icons?i=java,ai,cs,nodejs)](https://skillicons.dev)
 
 ----
 
