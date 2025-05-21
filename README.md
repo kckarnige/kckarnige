@@ -87,7 +87,7 @@ A simple and lightweight alternative to ASUS's Armoury Crate, it's a lot more co
 
 ### [Rememory](https://github.com/hpavlo/Rememory)
 A clipboard manager I use to replace Window's default clipboard history, because for some reason it doesn't work on my system.    
-> *(This may be due to [ReviOS](#-revios), but I'm not entirely sure since this hasn't been an issue for me in the past.)*
+> *(This may be due to [ReviOS](https://revi.cc/), but I'm not entirely sure since this hasn't been an issue for me in the past.)*
 
 ## 🌐 My Socials 💻
 
