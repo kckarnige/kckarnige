@@ -20,7 +20,7 @@
 
 ### 👋 Hey, I'm KiCK!
 
-I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
+I'm a hobbyist programmer who's been making shit for the internet since 2018!
 
 > *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord) is gayer." - My stupid ass 2024*
 
