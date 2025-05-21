@@ -18,7 +18,7 @@
 
 ----
 
-### 👋 Hey, I'm KiCK!
+### 👋 Heyo, I'm KiCK!
 
 I'm a hobbyist programmer who's been making shit for the internet since 2018!
 
