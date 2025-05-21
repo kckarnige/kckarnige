@@ -36,51 +36,58 @@ I'm a hobbyist programmer who specializes in nonsense, pixels, and code!
 
 ## 👷‍♂️ Notable [P]rojects and [C]ontributions 🪛
 
-### [My Website!!!!!](https://kckarnige.github.io/) [P]
+### 💫 [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 4th rewrite of my website, built from the ground up.
 
 ### [Blox R.A.T. Proxy](https://github.com/kckarnige/BloxRatP) [P]
 A simple little test API that may or may not be useful. It can either give you an avatar render of a user or give you some data about the user, like their display name and profile description.
 
+### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
+An open-source new tab extension that makes for good eye-candy.
+
 ### [Fresh NW](https://github.com/kckarnige/NeoNWjsForC2) [P]
 This is my modernized remake of the official "NW.js for Construct 2" installer. This installs the latest version of NW.js available, for use with Construct 2. 
+
+### [FUG IGG](https://gist.github.com/kckarnige/6dfff1025b5da69399c26957ee47b445) [P]
+Because why wait to install a cryptominer, when you could do it now!!
 
 ### [Legcord](https://github.com/Legcord/Legcord) [C]
 Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
 
-### [Tools of Steel](https://github.com/kckarnige/ToolsofSteel) [P]
-A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on [Modrinth](https://modrinth.com/mod/tools-of-steel) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tools-of-steel))_
-
 ### [Minecraft: Sticks n' Stones](https://mc-sns.github.io/) [P]
 Just another Minecraft modpack. _(Available on [Modrinth](https://modrinth.com/modpack/mc-sns))_
 
-### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
-An open-source new tab extension that makes for good eye-candy.
-
-### [FUG IGG](https://gist.github.com/kckarnige/6dfff1025b5da69399c26957ee47b445) [P]
-Because why wait to install a cryptominer, when you could do it now!!
+### [Tools of Steel](https://github.com/kckarnige/ToolsofSteel) [P]
+A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on [Modrinth](https://modrinth.com/mod/tools-of-steel) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tools-of-steel))_
 
 <br>
 
 ## ✨ My Essential Programs™ ✨
 
-### [Equibop](https://github.com/Equicord/Equibop)
-A fork of [Vesktop](https://github.com/Vencord/Vesktop), with more plugins. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord), it includes both Vencord and Equicord!)*
+### 💫 [ReviOS](https://revi.cc/)
+A Windows mod that debloats Windows as much as it can, keeping the look of modern Windows without *being* modern Windows, mostly. 
 
-### [Floorp](https://github.com/floorp-Projects/floorp)
-A fork of Firefox, but with much more freedom when it comes to customization.
+### [ATLauncher](https://github.com/ATLauncher/ATLauncher)
+The old reliable when it comes to modded Minecraft. Might not be the prettiest, but it just works™.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab)
 Honestly, I made this 100% for myself, I just like having something nice to look at.
 
+### [Equibop](https://github.com/Equicord/Equibop)
+A fork of [Vesktop](https://github.com/Vencord/Vesktop), with more plugins. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord), it includes both Vencord and Equicord!)*
+
 ### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 Ever since I've "upgraded" to Windows 11, though I still enjoy the taskbar and File Explorer from Windows 10, and this is perfect!
+
+### [Floorp](https://github.com/floorp-Projects/floorp)
+A fork of Firefox, but with much more freedom when it comes to customization.
 
 ### [G-Helper](https://github.com/seerge/g-helper)
 A simple and lightweight alternative to ASUS's Armoury Crate, it's a lot more convenient!
 
-### [ATLauncher](https://github.com/ATLauncher/ATLauncher)
-The old reliable when it comes to modded Minecraft. Might not be the prettiest, but it just works™.
+### [Rememory](https://github.com/hpavlo/Rememory)
+A clipboard manager I use to replace Window's default clipboard history, because for some reason it doesn't work on my system.    
+> *(This may be due to [ReviOS](#-revios), but I'm not entirely sure since this hasn't been an issue for me in the past.)*
 
 ## 🌐 My Socials 💻
 
