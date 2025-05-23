@@ -62,7 +62,7 @@ A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on 
 
 <br>
 
-## ✨ My Essential Programs™ ✨
+## ✨ My Essential Software™ ✨
 
 ### 💫 [ReviOS](https://revi.cc/)
 A Windows mod that debloats Windows as much as it can, keeping the look of modern Windows without *being* modern Windows, mostly. 
