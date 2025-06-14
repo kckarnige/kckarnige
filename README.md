@@ -42,6 +42,9 @@ The 4th rewrite of my website, built from the ground up.
 ### [Blox R.A.T. Proxy](https://github.com/kckarnige/BloxRatP) [P]
 A simple little test API that may or may not be useful. It can either give you an avatar render of a user or give you some data about the user, like their display name and profile description.
 
+### [e694](https://github.com/kckarnige/e694) [P]
+A project not too unlike [FxEmbed](https://github.com/FxEmbed/FxEmbed) or [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix), but for the furry oriented websites e621 and e926.
+
 ### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
 An open-source new tab extension that makes for good eye-candy.
 
