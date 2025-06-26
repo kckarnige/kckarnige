@@ -107,12 +107,12 @@ Instagram - [@kckarnige](https://instagram.com/kckarnige)
 
 YouTube - [@kckarnige](https://www.youtube.com/channel/UCHDWD1G20SVO399jCS0LDNQ)
 
-DeviantArt - [@CarnigeWasHere](https://www.deviantart.com/carnigewashere)
+DeviantArt - [CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
 Roblox - [@kayos155](https://www.roblox.com/users/154248006/profile)
 
 Modrinth - [KiCKTheBucket](https://modrinth.com/user/KiCKTheBucket)
 
-GameBanana - [@KCK](https://gamebanana.com/members/1716410)
+GameBanana - [KCK](https://gamebanana.com/members/1716410)
 
 [![discord-profile](https://lanyard.kyrie25.dev/api/634168893644210186?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage="I've%20been%20shaking%20my%20hips,%20I've%20been%20putting%20on%20a%20show."&useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
