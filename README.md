@@ -43,7 +43,7 @@ The 4th rewrite of my website, built from the ground up.
 A simple little test API that may or may not be useful. It can either give you an avatar render of a user or give you some data about the user, like their display name and profile description.
 
 ### [e694](https://github.com/kckarnige/e694) [P]
-A project not too unlike [FxEmbed](https://github.com/FxEmbed/FxEmbed) or [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix), but for the furry oriented websites e621 and e926.
+A project not too unlike [FxEmbed](https://github.com/FxEmbed/FxEmbed) or [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix), but for the furry oriented websites e926 and e621.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab) [P]
 An open-source new tab extension that makes for good eye-candy.
@@ -70,14 +70,14 @@ A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on 
 ### 💫 [ReviOS](https://revi.cc/)
 A Windows mod that debloats Windows as much as it can, keeping the look of modern Windows without *being* modern Windows, mostly. 
 
-### [ATLauncher](https://github.com/ATLauncher/ATLauncher)
-The old reliable when it comes to modded Minecraft. Might not be the prettiest, but it just works™.
+### [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
+The Minecraft launcher that just works™.
 
 ### [Ecsta](https://github.com/kckarnige/EcstaTab)
 Honestly, I made this 100% for myself, I just like having something nice to look at.
 
-### [Equibop](https://github.com/Equicord/Equibop)
-A fork of [Vesktop](https://github.com/Vencord/Vesktop), with more plugins. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord), it includes both Vencord and Equicord!)*
+### [Equicord](https://github.com/Equicord/Equicord)
+A fork of [Vencord](https://github.com/Vendicated/Vencord), with more plugins. *(You should still try out ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord), it includes both Vencord and Equicord!)*
 
 ### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 Ever since I've "upgraded" to Windows 11, though I still enjoy the taskbar and File Explorer from Windows 10, and this is perfect!
@@ -91,6 +91,9 @@ A simple and lightweight alternative to ASUS's Armoury Crate, it's a lot more co
 ### [Rememory](https://github.com/hpavlo/Rememory)
 A clipboard manager I use to replace Window's default clipboard history, because for some reason it doesn't work on my system.    
 > *(This may be due to [ReviOS](https://revi.cc/), but I'm not entirely sure since this hasn't been an issue for me in the past.)*
+
+### [Reverse Tethering RePack](https://github.com/Kuijen/RT-RP)
+I use Virtual Desktop and wondered if I could use it via USB, then I found this and now it's impossible for me to use VD without it!
 
 ## 🌐 My Socials 💻
 
