@@ -93,7 +93,7 @@ A clipboard manager I use to replace Window's default clipboard history, because
 > *(This may be due to [ReviOS](https://revi.cc/), but I'm not entirely sure since this hasn't been an issue for me in the past.)*
 
 ### [Reverse Tethering RePack](https://github.com/Kuijen/RT-RP)
-I use Virtual Desktop and wondered if I could use it via USB, then I found this and now it's impossible for me to use VD without it!
+I use Virtual Desktop and wondered if I could use it via USB, then I found this and I'm not going back, it's amazing!
 
 ## 🌐 My Socials 💻
 
