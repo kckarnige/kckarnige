@@ -13,7 +13,7 @@
     <img alt="kofi-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg">
   </a>
   <br>
-  <i>I also take <a href="https://cash.app/$kckarnige">CashApp</a> (Yes, I am that broke)</i>
+  <i>I also take <a href="https://cash.app/$kckarnige">Cash App</a> (Yes, I am that broke)</i>
 </p>
 
 ----
