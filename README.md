@@ -24,7 +24,7 @@ I'm a hobbyist programmer who's been making shit for the internet since 2018!
 
 > *When in doubt, remember, "[smartfridge](https://github.com/smartfrigde) is gay, ~~ArmCord~~ [Legcord](https://github.com/Legcord/Legcord) is gayer." - My stupid ass 2024*
 
-[![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kckarnige&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=html,powershell,lua,c%2B%2B,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Things I work well with:
 [![My Skills](https://skillicons.dev/icons?i=html,scss,css,js,ps)](https://skillicons.dev)
