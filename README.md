@@ -39,7 +39,7 @@ I'm a hobbyist programmer who's been making shit for the internet since 2018!
 ### 💫 [My Website!!!!!](https://kckarnige.github.io/) [P]
 The 4th rewrite of my website, built from the ground up.
 
-### [Blox R.A.T. Proxy](https://github.com/kckarnige/BloxRatP) [P]
+### [Blox R.A.T.](https://github.com/kckarnige/BloxRAT) [P]
 A simple little test API that may or may not be useful. It can either give you an avatar render of a user or give you some data about the user, like their display name and profile description.
 
 ### [e694](https://github.com/kckarnige/e694) [P]
