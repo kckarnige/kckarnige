@@ -67,8 +67,8 @@ A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on 
 
 ## ✨ My Essential Software™ ✨
 
-### 💫 [ReviOS](https://revi.cc/)
-A Windows mod that debloats Windows as much as it can, keeping the look of modern Windows without *being* modern Windows, mostly. 
+### 💫 [Talon](https://github.com/ravendevteam/talon)
+A Windows 11 debloater that's as straight forward as using a mouse. 
 
 ### [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
 The Minecraft launcher that just works™.
@@ -82,15 +82,11 @@ A fork of [Vencord](https://github.com/Vendicated/Vencord), with more plugins. *
 ### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 Ever since I've "upgraded" to Windows 11, though I still enjoy the taskbar and File Explorer from Windows 10, and this is perfect!
 
-### [Floorp](https://github.com/floorp-Projects/floorp)
-A fork of Firefox, but with much more freedom when it comes to customization.
+### [Firefox](https://github.com/mozilla-firefox/firefox)
+Firefox.
 
 ### [G-Helper](https://github.com/seerge/g-helper)
 A simple and lightweight alternative to ASUS's Armoury Crate, it's a lot more convenient!
-
-### [Rememory](https://github.com/hpavlo/Rememory)
-A clipboard manager I use to replace Window's default clipboard history, because for some reason it doesn't work on my system.    
-> *(This may be due to [ReviOS](https://revi.cc/), but I'm not entirely sure since this hasn't been an issue for me in the past.)*
 
 ### [Reverse Tethering RePack](https://github.com/Kuijen/RT-RP)
 I use Virtual Desktop and wondered if I could use it via USB, then I found this and I'm not going back, it's amazing!
