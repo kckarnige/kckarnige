@@ -105,7 +105,7 @@ YouTube - [@kckarnige](https://www.youtube.com/channel/UCHDWD1G20SVO399jCS0LDNQ)
 
 DeviantArt - [CarnigeWasHere](https://www.deviantart.com/carnigewashere)
 
-Roblox - [@kayos155](https://www.roblox.com/users/154248006/profile)
+Roblox - [@KiCK_inTheBucket](https://www.roblox.com/users/154248006/profile)
 
 Modrinth - [KiCKTheBucket](https://modrinth.com/user/KiCKTheBucket)
 
