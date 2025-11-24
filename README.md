@@ -55,7 +55,7 @@ This is my modernized remake of the official "NW.js for Construct 2" installer. 
 Because why wait to install a cryptominer, when you could do it now!!
 
 ### [Joe](https://github.com/kckarnige/SoberJoe) [P]
-Lost my mind trying to figure out how to start Sober from Firefox, so I called up Joe. 
+Lost my mind trying to figure out how to start [Sober](https://sober.vinegarhq.org/) from Firefox, so I called up Joe. 
 
 ### [Legcord](https://github.com/Legcord/Legcord) [C]
 Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
