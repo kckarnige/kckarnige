@@ -54,6 +54,9 @@ This is my modernized remake of the official "NW.js for Construct 2" installer. 
 ### [FUG IGG](https://gist.github.com/kckarnige/6dfff1025b5da69399c26957ee47b445) [P]
 Because why wait to install a cryptominer, when you could do it now!!
 
+### [Joe](https://github.com/kckarnige/SoberJoe) [P]
+Lost my mind trying to figure out how to start Sober from Firefox, so I called up Joe. 
+
 ### [Legcord](https://github.com/Legcord/Legcord) [C]
 Formerly known as ArmCord. One of the first alternative Discord clients made from scratch, created by smartfridge.
 
@@ -70,9 +73,6 @@ A Minecraft mod that rethinks Minecraft's equipment progression. _(Available on 
 ### 💫 [Talon](https://github.com/ravendevteam/talon)
 A Windows 11 debloater that's as straight forward as using a mouse. 
 
-### [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
-The Minecraft launcher that just works™.
-
 ### [Ecsta](https://github.com/kckarnige/EcstaTab)
 Honestly, I made this 100% for myself, I just like having something nice to look at.
 
@@ -87,6 +87,9 @@ Firefox.
 
 ### [G-Helper](https://github.com/seerge/g-helper)
 A simple and lightweight alternative to ASUS's Armoury Crate, it's a lot more convenient!
+
+### [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
+The Minecraft launcher that just works™.
 
 ### [Reverse Tethering RePack](https://github.com/Kuijen/RT-RP)
 I use Virtual Desktop and wondered if I could use it via USB, then I found this and I'm not going back, it's amazing!
