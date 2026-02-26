@@ -16,7 +16,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=html,powershell,lua,c%2B%2B,makefile
-          path: profile/stats.svg
+          path: profile/ghstats.svg
           token: ${{ secrets.TOKEN }}
 
       - name: Commit cards
